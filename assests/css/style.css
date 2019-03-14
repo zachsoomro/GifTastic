@@ -1,0 +1,13 @@
+#title {
+  background-color: aquamarine;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+.container {
+  text-align: center;
+  padding: 2%;
+}
+body {
+  background-color: yellow;
+}
